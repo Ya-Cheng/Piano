@@ -27,6 +27,7 @@ To run the site on your local machine:
 git clone https://github.com/your-username/Piano.git
 cd Piano
 open index.html
+```
 
 ## About
 
